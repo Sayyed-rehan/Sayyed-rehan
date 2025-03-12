@@ -35,6 +35,8 @@ Backend:
 
 Tools & Other Skills:
 Figma <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Icon" width="30" height="30" style="border: 2px solid #000; border-radius: 10px;">
+Figma <img src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" alt="Figma Icon" width="30" height="30" style="border: 2px solid #000; border-radius: 10px;">
+
 Postman, Git, GitHub,
 Data Structures and Algorithms (DSA) 
 
