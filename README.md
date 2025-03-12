@@ -1,5 +1,5 @@
 🌟 Sayyed Rehan – Full Stack Developer 🌟
-Hi there! 👋 I am Rehan Sayyed, a passionate MERN Stack Developer with approximately 1.7 years of experience in web development. I am a graduate of Vishwakarma Institute of Technology, Pune and proficient in languages such as JavaScript, Python, R, and Java, along with various web frameworks and tools.
+Hi there! 👋 I am Rehan Sayyed, a passionate MERN Stack Developer with approximately 2 years of experience in web development. I am a graduate of Vishwakarma Institute of Technology, Pune and proficient in languages such as JavaScript, Python, R, and Java, along with various web frameworks and tools.
 
 🌱 About Me
 🚀 Former Software Engineer at LTI-Mindtree, Pune, delivering high-quality web applications with modern front-end and back-end technologies.
@@ -39,15 +39,6 @@ Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA)
 🌍 Let’s Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
 
+💻 GitHub [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
 
-
-
-
-
-💻 GitHub
-image.png
-
-📂 Portfolio
-
-Frontend Development:
-
+📂 Portfolio [](https://sayyed-rehan-portfolio.onrender.com/)
