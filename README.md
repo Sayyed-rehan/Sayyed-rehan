@@ -34,8 +34,9 @@ Backend:
 ![image alt](https://camo.githubusercontent.com/75fb39aa776b8f2aba60915f5cccf27c2b58f5c00fdbfb5f8bf5619be6c6cb89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3030363834413f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
 Tools & Other Skills:
-Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA) 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Icon" width="30" height="30" style="border: 2px solid #000; border-radius: 10px;">
+Figma <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Icon" width="30" height="30" style="border: 2px solid #000; border-radius: 10px;">
+Postman, Git, GitHub,
+Data Structures and Algorithms (DSA) 
 
 
 
