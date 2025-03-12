@@ -37,8 +37,7 @@ Tools & Other Skills:
 Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA) 
 
 🌍 Let’s Connect!
-🌐 LinkedIn
-[Visit My Website](https://www.example.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
 
 
 💻 GitHub
