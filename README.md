@@ -35,11 +35,8 @@ Backend:
 
 Tools & Other Skills:
 Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA) 
-<img src="https://www.pixartprinting.co.uk/blog/figma-what-is/" alt="Figma Icon" width="20" height="20" style="border: 2px solid #000; border-radius: 10px;">
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Icon" width="100" height="100" style="border: 2px solid #000; border-radius: 10px;">
-</p>
-<p align="center">This is the Figma logo, a popular design tool!</p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Icon" width="100" height="100" style="border: 2px solid #000; border-radius: 10px;">
+
 
 
 
