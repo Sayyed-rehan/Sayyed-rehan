@@ -35,6 +35,8 @@ Backend:
 
 Tools & Other Skills:
 Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA) 
+![Figma Icon](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+
 
 🌍 Let’s Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
