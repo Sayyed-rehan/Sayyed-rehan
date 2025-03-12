@@ -38,7 +38,6 @@ Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA)
 
 🌍 Let’s Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
-[![Alt Text](https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple221%2Fv4%2Fe2%2F6f%2Fc2%2Fe26fc2fc-86d9-79ab-5e9f-4ce7db108ea6%2FAppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png%2F1200x600wa.png&imgrefurl=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flinkedin-network-job-finder%2Fid288429040&docid=fPCJaj8vG3XQwM&tbnid=O9rZ9xP9azyb7M&vet=12ahUKEwiBkK30ooSMAxUESGwGHXcjCP0QM3oECBkQAA..i&w=1200&h=600&hcb=2&ved=2ahUKEwiBkK30ooSMAxUESGwGHXcjCP0QM3oECBkQAA)](Link URL)
 
 
 
