@@ -38,7 +38,8 @@ Postman, Git, GitHub, Figma, Data Structures and Algorithms (DSA)
 
 🌍 Let’s Connect!
 🌐 [LinkedIn](https://www.linkedin.com/in/rehan-sayyed-0682b220a/)
-![image alt]([https://example.com/logo.png](https://coopsandcareers.wit.edu/blog/2022/08/12/the-benefits-of-using-linkedin-for-your-career/))](https://example.com)
+[![My Project Logo](https://coopsandcareers.wit.edu/blog/2022/08/12/the-benefits-of-using-linkedin-for-your-career/)](https://example.com)
+
 
 
 
